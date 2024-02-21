@@ -1,0 +1,8 @@
+{
+  "name": "rapp5",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "other/rapp5/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
